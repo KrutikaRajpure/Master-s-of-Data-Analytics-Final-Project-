@@ -1,18 +1,21 @@
 # Master's-of-Data-Analytics-Final-Project-
 Bioinformatics in Drug Discovery: Leveraging Machine Learning and Data Analysis
 
-PROBLEM STATEMENT & PRIMARY OBJECTIVES
-Problem Statement: The emergence of the SARS coronavirus and its variants
+**PROBLEM STATEMENT & PRIMARY OBJECTIVES**
+
+**Problem Statement:** The emergence of the SARS coronavirus and its variants
 poses a critical global health threat, demanding the creation of efficient
 therapeutics.
 Conventional drug discovery methods are slow and expensive, relying heavily on
 experimental testing. However, employing bioinformatics, machine learning, and
 computational methods can accelerate this process by pinpointing promising drug
 candidates with favorable pharmacological traits.
-Primary Objectives:
+
+**Primary Objectives:**
 This project aims to use bioinformatics, machine learning, and computational
 techniques to find potential drugs targeting the SARS coronavirus 3C-like
 proteinase. It involves:
+
 • Retrieving and preprocessing bioactivity data from databases like
 ChEMBL.
 • Calculating molecular descriptors to assess drug-likeness and predict
