@@ -1,4 +1,4 @@
-# Master's-of-Data-Analytics-Final-Project-
+# Master's-of-Data-Analytics-Final-Year's-Project
 Bioinformatics in Drug Discovery: Leveraging Machine Learning and Data Analysis
 
 **PROBLEM STATEMENT & PRIMARY OBJECTIVES**
