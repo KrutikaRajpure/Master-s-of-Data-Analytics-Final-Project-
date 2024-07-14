@@ -28,5 +28,6 @@ project seeks to contribute to discovering effective treatments for
 coronavirus infections.
 
 
-User Interface App build with Streamlit
+**User Interface App build with Streamlit** 
+
 ![Screenshot 2024-04-26 165154](https://github.com/user-attachments/assets/b3044aba-ff6a-431d-af44-7a9dc4f7604b)
