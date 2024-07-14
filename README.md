@@ -18,10 +18,13 @@ proteinase. It involves:
 
 • Retrieving and preprocessing bioactivity data from databases like
 ChEMBL.
+
 • Calculating molecular descriptors to assess drug-likeness and predict
 pharmacokinetic properties.
+
 • Developing machine learning models to predict compound bioactivity
 against the SARS coronavirus 3C-like proteinase.
+
 • Identifying lead compounds with promising pharmacological profiles for
 further experimental validation and drug development. Ultimately, the
 project seeks to contribute to discovering effective treatments for
